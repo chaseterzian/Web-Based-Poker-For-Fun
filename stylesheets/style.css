@@ -13,7 +13,7 @@ video{
 }
 
 .bgpic {
-  background-image: url("../images/garage.jpg");
+  background-image: url("../images/redFelt.jpg");
   background-width: 100%;
   background-height: 100%;
   background-repeat: no-repeat;
@@ -203,7 +203,7 @@ video {
   /*width: 8.33333%;*/
   width: 8.3%;
   float: left;
-/*border: 1px solid red;*/
+border: 1px solid transparent;
 }
 .col-15{
   /*width: 8.33333%;*/
@@ -227,7 +227,7 @@ video {
   /*width: 16.66666%;*/
   width: 16.6%;
   float: left;
-  border: 1px solid;
+  border: 1px solid transparent;
 }
 .col-25{
   /*width: 20%;*/
@@ -278,18 +278,18 @@ video {
   /*width: 33.33333%;*/
   width: 33.3%;
   float: left;
-  /*border: 1px solid red;*/
+  border: 1px solid transparent;
 }
 .col-5{
   /*width: 41.66666%;*/
   width: 41.6%;
   float: left;
-  /*border: 1px solid red;*/
+  border: 1px solid transparent;
 }
 .col-6{
   width: 50.00%;
   float: left;
-border: 1px solid black;
+border: 1px solid transparent;
 }
 .col-7{
   width: 58.33333%;
@@ -310,13 +310,13 @@ border: 1px solid black;
 .col-8{
   width: 66.66666%;
   float: left;
-/*border: 1px solid red;*/
+border: 1px solid transparent;
 }
 .col-9{
   /*width: 75.00%;*/
   width: 74.65%;
   float: left;
-/*border: 1px solid red;*/
+border: 1px solid transparent;
 }
 .col-10{
   width: 83.33333%;
@@ -329,9 +329,10 @@ border: 1px solid black;
 /*border: 1px solid red;*/
 }
 .col-12{
+  height: 150px;
   width: 100.00%;
   float: left;
-  /*border: 1px solid red;*/
+  border: 1px solid transparent;
 }
 .500{
   height: 500px;
